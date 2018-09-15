@@ -16,6 +16,7 @@
 
 .App-title {
   font-size: 1.5em;
+  /* margin-bottom: 30px; */
 }
 
 .App-intro {
@@ -25,4 +26,13 @@
 @keyframes App-logo-spin {
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
+}
+
+.l-without {
+  display: block;
+  height:400px;
+  width: 500px;
+  border: 2px solid red;
+  margin:auto;
+  margin-top: 40px;
 }

@@ -1,0 +1,21 @@
+.counter{
+  margin-top:40px;
+  margin-bottom: 20px;
+}
+
+.btns {
+  display: inline-block;
+  left:10%;
+  width:300px;
+  border: 2px solid green;
+  .add-btn{
+    float:left;
+    margin-left: 30px;
+    padding: 10px 20px;
+  }
+  .minus-btn{
+    float: right;
+    margin-right: 30px;
+    padding: 10px 20px;
+  }
+}
